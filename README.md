@@ -1,4 +1,15 @@
+# useEffect explicado al detalle - Con 3 mini Apps - React  
+
+## Tutorial Youtube
+https://www.youtube.com/watch?v=6lvI-gTF_X8
+  
+
+### Project
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+
+## Tutorial Youtube
+https://www.youtube.com/watch?v=6lvI-gTF_X8
+
 
 ## Available Scripts
 
